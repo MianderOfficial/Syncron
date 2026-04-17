@@ -58,7 +58,7 @@ python bpm_analyzer.py song.mp3 --start 30 --duration 60
 Place your music files (e.g., `.mp3`, `.wav`) in the **same directory** as the `bpm_analyzer.py` script for easiest access.
 
 ### Why "Syncron"?
-The name **Syncron** is a play on *Synchronization*. It represents the tool's ability to "sync" perfectly with the underlying rhythm of any audio. It's about finding that hidden pulse and bringing it to light with technical precision.
+The name **Syncron** is a play on *Synchronization*. It represents the tool's ability to "sync" perfectly with the underlying rhythm of any audio. It's about finding that hidden BPM and bringing it to light with technical precision.
 
 ---
 
@@ -119,4 +119,4 @@ python bpm_analyzer.py song.mp3 --start 30 --duration 60
 Сохраняйте музыкальные файлы (например, `.mp3`, `.wav`) в **папке с проектом**, там же, где находится файл программы `bpm_analyzer.py`, для максимально удобного использования.
 
 ### Почему "Syncron"?
-Название **Syncron** происходит от слова *Синхронизация*. Оно отражает способность инструмента идеально «синхрониться» с внутренним ритмом любого аудио. Это про поиск того самого скрытого пульса и выведение его на свет с технической точностью.
+Название **Syncron** происходит от слова *Синхронизация*. Оно отражает способность инструмента идеально «синхрониться» с внутренним ритмом любого аудио. Это про поиск того самого скрытого БПМа и выведение его на свет с технической точностью.
