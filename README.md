@@ -18,7 +18,10 @@ A highly precise CLI tool for detecting the exact BPM (Beats Per Minute) of an a
 
 ## Installation
 
-1. Clone the repository.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MianderOfficial/Syncron
+   ```
 2. Install the requirements:
 ```bash
 pip install -r requirements.txt
@@ -51,6 +54,12 @@ Start from a specific offset:
 python bpm_analyzer.py song.mp3 --start 30 --duration 60
 ```
 
+### Important Note on Files
+Place your music files (e.g., `.mp3`, `.wav`) in the **same directory** as the `bpm_analyzer.py` script for easiest access.
+
+### Why "Syncron"?
+The name **Syncron** is a play on *Synchronization*. It represents the tool's ability to "sync" perfectly with the underlying rhythm of any audio. It's about finding that hidden pulse and bringing it to light with technical precision.
+
 ---
 
 # Точный анализатор BPM 🎵
@@ -70,7 +79,10 @@ python bpm_analyzer.py song.mp3 --start 30 --duration 60
 
 ## Установка
 
-1. Склонируйте репозиторий.
+1. Склонируйте репозиторий:
+   ```bash
+   git clone https://github.com/MianderOfficial/Syncron
+   ```
 2. Установите зависимости:
 ```bash
 pip install -r requirements.txt
@@ -102,3 +114,9 @@ python bpm_analyzer.py song.mp3 --all
 ```bash
 python bpm_analyzer.py song.mp3 --start 30 --duration 60
 ```
+
+### Важное примечание по файлам
+Сохраняйте музыкальные файлы (например, `.mp3`, `.wav`) в **папке с проектом**, там же, где находится файл программы `bpm_analyzer.py`, для максимально удобного использования.
+
+### Почему "Syncron"?
+Название **Syncron** происходит от слова *Синхронизация*. Оно отражает способность инструмента идеально «синхрониться» с внутренним ритмом любого аудио. Это про поиск того самого скрытого пульса и выведение его на свет с технической точностью.
