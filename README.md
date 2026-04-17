@@ -1,5 +1,4 @@
 # Syncron
-# Precision BPM Analyzer 🎵
 
 ![BPM Analyzer](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -64,7 +63,6 @@ The name **Syncron** is a play on *Synchronization*. It represents the tool's ab
 ---
 
 #Syncron
-# Точный анализатор BPM 🎵
 
 *(English version above)*
 
