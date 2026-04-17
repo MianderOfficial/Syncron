@@ -7,7 +7,7 @@
 
 A highly precise CLI tool for detecting the exact BPM (Beats Per Minute) of an audio file. It leverages multiple independent algorithms and combines their results to achieve high accuracy.
 
-**Note:** This program works best for static BPM. If you have a track with a variable BPM, well, you'll have to find it yourself manually 😅 (just kidding, but seriously, this is for static BPM!).
+**Note:** This program works best for static BPM. If you have a track with a variable BPM, well, you'll have to find it yourself manually 😅.
 
 ## Features
 - **Multi-Algorithm Fusion:** Uses `librosa`'s dynamic programming beat tracker, autocorrelation on the onset envelope, and a Fourier tempogram.
