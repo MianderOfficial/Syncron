@@ -19,9 +19,9 @@ A highly precise CLI tool for detecting the exact BPM (Beats Per Minute) of an a
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/MianderOfficial/Syncron
-   ```
+```bash
+git clone https://github.com/MianderOfficial/Syncron
+```
 2. Install the requirements:
 ```bash
 pip install -r requirements.txt
@@ -80,9 +80,9 @@ The name **Syncron** is a play on *Synchronization*. It represents the tool's ab
 ## Установка
 
 1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/MianderOfficial/Syncron
-   ```
+```bash
+git clone https://github.com/MianderOfficial/Syncron
+```
 2. Установите зависимости:
 ```bash
 pip install -r requirements.txt
